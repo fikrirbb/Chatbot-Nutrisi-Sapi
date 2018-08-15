@@ -1,1 +1,1 @@
-Chatbot-Nutrisi-Sapi
+Chatbot yang mempermudah peternak sapi menentukan nutrisi yang seharusnya diterima sapi berdasarkan bahan yang tersedia dan berat bobot sapi melalui google assistant. Project ini adalah penelitian yang dilakukan oleh fikrirbb@gmail.com untuk mendapatkan gelar Sarjana di Politeknik Negeri Jember pada tahun 2018.
